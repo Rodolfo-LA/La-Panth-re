@@ -2,4 +2,4 @@
 
 Project_4 OpenClassrooms
 
-  Version du site non optimisé.
+  Version du site optimisé.
